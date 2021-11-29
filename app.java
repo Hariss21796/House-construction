@@ -8,6 +8,7 @@ public class Animal {
 
 	public static void getName(String name) {
 		System.out.println("Animal name is:" + name);
+		System.out.println("Animal name is:" + name);
 
 	}
 }
